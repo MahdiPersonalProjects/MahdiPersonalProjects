@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="GitHub.png" height="200" />
+    <img src="/git.avif" height="200" />
 </div>
 
 <div align="center">
